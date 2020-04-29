@@ -1,6 +1,10 @@
 applet/
 .vscode/
 .pio/
+.pioenvs/
+.piolibdeps/
+platformio.ini
+lib/
 *.o
 *~
 *.orig
